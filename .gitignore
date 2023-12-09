@@ -1,0 +1,6 @@
+*.mov
+*.mp4
+*.pmtiles
+data/
+*.pbf
+*h264.mp4

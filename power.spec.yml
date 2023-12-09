@@ -1,0 +1,13 @@
+examples:
+  - name: power
+    input:
+      geometry: line
+      source: osm
+      tags:
+        power: line
+        voltage: 100
+    output:
+      geometry: line
+      layer: power
+      tags:
+        voltage: 100

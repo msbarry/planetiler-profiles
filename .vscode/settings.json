@@ -1,0 +1,9 @@
+{
+  "java.project.referencedLibraries": ["planetiler.jar"],
+  "Lua.completion.callSnippet": "Replace",
+  "yaml.schemas": {
+    "https://raw.githubusercontent.com/onthegomap/planetiler/main/planetiler-custommap/planetiler.schema.json": [
+      "*.y*ml"
+    ]
+  }
+}
